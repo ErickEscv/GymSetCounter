@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">SET COUNTER</string>
+    <string name="app_name2">GYM \nSET COUNTER</string>
+
+
+    <!-- Main Activity strings -->
+    <string name="start_button">Comenzar</string>
+
+        <!-- Second Window strings -->
+    <string name="time">TIEMPO</string>
+    <string name="exercises">EJERCICIOS</string>
+    
+    <string name="Exercise1">Press de banca</string>
+    <string name="Exercise2">Press de banca inclinado</string>
+    <string name="Exercise3">Press con mancuerna</string>
+    <string name="Exercise4">Triceps</string>
+
+</resources>
